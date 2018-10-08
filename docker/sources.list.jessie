@@ -1,0 +1,13 @@
+#------------------------------------------------------------------------------#
+#                   OFFICIAL DEBIAN REPOS                    
+#------------------------------------------------------------------------------#
+
+###### Debian Main Repos
+deb http://ftp.cn.debian.org/debian/ jessie main contrib non-free
+deb-src http://ftp.cn.debian.org/debian/ jessie main contrib non-free
+
+###### Debian Update Repos
+deb http://security.debian.org/ jessie/updates main contrib non-free 
+deb http://ftp.cn.debian.org/debian/ jessie-proposed-updates main contrib non-free
+deb-src http://security.debian.org/ jessie/updates main contrib non-free 
+deb-src http://ftp.cn.debian.org/debian/ jessie-proposed-updates main contrib non-free

@@ -1,0 +1,2 @@
+sudo docker build -t registry.cn-shanghai.aliyuncs.com/rongchi/info_server:3.0.5 .
+sudo docker push registry.cn-shanghai.aliyuncs.com/rongchi/info_server:3.0.5
