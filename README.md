@@ -1,2 +1,2 @@
 # TaobaoDataCrawling
-破解淘宝selenium登录
+需扫码登录
