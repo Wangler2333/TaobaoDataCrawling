@@ -2,7 +2,7 @@ anyjson==0.3.3
 asn1crypto==0.24.0
 attrs==18.1.0
 Automat==0.6.0
-certifi==2018.1.18
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 consulate==0.6.0
